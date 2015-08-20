@@ -2,4 +2,7 @@
 void main()
 {
 int a,b;
+cin>>a>>b;
+cout <<"ADDiton of no is<<a+b;"
+cout<<a,b;
 }
